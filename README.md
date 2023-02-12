@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, Siddhardha Varma here</h1>
 <h3 align="center"></h3>
--  I’m currently learning Blockchain Technology, smartcontracts and DeFi
 
 <br><br><br><br>
 

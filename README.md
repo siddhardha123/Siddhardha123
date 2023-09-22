@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Siddhardha Varma here</h1>
 <h3 > 👨‍💻 Passionate Computer Science Engineer</h3></h3>
   <h3 >  🌍 Solving Real-World Problems</h3>
-  <h3  > 🚀currently working on blockchain applications</h3>
+ 
 
 
 <!-- Streak -->
